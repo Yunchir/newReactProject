@@ -1,0 +1,72 @@
+main{
+    box-sizing: border-box;
+}
+
+.group{
+    display: flex;
+    justify-content: space-between;
+}
+
+.question {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    font-size: 26px;
+}
+
+
+
+
+.askBtn{
+    background-color: rgba(51, 141, 210, 0.914);
+    color: #fff;
+    padding: 18px;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+   
+}
+
+.list_num {
+    font-size: 24px;
+}
+
+.items{
+    display: flex;
+}
+
+.item{
+    display: flex;
+    padding: 10px;
+}
+
+.item li a{
+    border: 1px solid #333;
+    padding: 15px;
+    font-size: 16px;
+}
+
+.item .newest {
+    background-color: rgba(51, 51, 51, 0.124);
+    color: rgb(14, 8, 8);
+}
+
+.bountiedNum{
+    background-color: rgba(31, 133, 216, 0.914);
+    color: #fff;
+    border-radius: 5px;
+}
+
+.filterBtn {
+    padding: 18px;
+    background-color: rgba(51, 141, 210, 0.3);
+    color: rgb(51, 141, 210);
+    margin: 14px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}

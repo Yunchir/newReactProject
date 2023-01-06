@@ -1,0 +1,26 @@
+.main {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navbar ul {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.navbar ul li {
+  list-style: none;
+  text-decoration: none;
+  align-items: center;
+}
+
+.blog {
+  color: rgb(73, 43, 226);
+}

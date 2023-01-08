@@ -17,10 +17,14 @@
 
 .navbar ul li {
   list-style: none;
-  text-decoration: none;
   align-items: center;
 }
 
-.blog {
+#blog {
   color: rgb(73, 43, 226);
+}
+
+.navbar ul li a {
+  color: #424242;
+  text-decoration: none;
 }

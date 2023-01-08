@@ -19,7 +19,7 @@ export default function Main() {
         </p>
         <div className="img">
           <img src={twitter} alt="#" />
-          <img src={linked} alt="#" />
+          <img className="centerimg" src={linked} alt="#" />
           <img src={medium} alt="#" />
         </div>
       </div>

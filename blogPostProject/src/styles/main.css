@@ -1,3 +1,19 @@
 .blog {
   display: flex;
+  margin: 0;
+  padding: 0;
+  
+  align-content: flex-start;
+}
+
+.blog h1 {
+  color: #D05270;
+}
+
+.blog h3, p {
+  color: #424242;
+}
+
+.img .centerimg {
+  margin: 20px;
 }

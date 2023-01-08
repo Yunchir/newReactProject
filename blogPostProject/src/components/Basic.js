@@ -1,17 +1,20 @@
+import BasicExample from "./BasicExample";
+
 const data = [
   {
     title: "User Interface (UI) Design",
     image:
       "https://syspree.com/wp-content/uploads/2022/09/What-is-an-interface-for-users.webp",
     description:
-      "Design Taxi has got you covered on the latest product design inventions on UX/UI and more. If you want some packaging design inspiration, check out the packaging design section which is flooded with fresh ideas. You might want to visit the Redesign section to learn how big brands redesign their brands and find out about the impact of the redesigning. ",
+      "Design Taxi has got you covered on the latest product design inventions on UX/UI and more. If you want some packaging design inspiration, check out the packaging design section  ",
     category: "UI",
   },
   {
-    title: "What is UI/UX Sprint Design experience",
+    title: "What is UI/UX Sprint Design experience ",
     image:
       "https://www.techtic.com/wp-content/uploads/2019/10/design-sprint-process-for-product-design-development.png",
-    description: "",
+    description:
+      "which is flooded with fresh ideas. You might want to visit the Redesign section to learn how big brands redesign their brands and find out about the impact of the redesigning.",
     category: "UX",
   },
   {
@@ -259,7 +262,7 @@ const data = [
     image:
       "https://cdn.uiuxtrend.com/wp-content/uploads/branding-differentiator.jpg",
     description:
-      "Marketers think that UX is the top brand differentiator in Bynder & OnBrand's State of Branding Report 2020. Get some insights into branding and marketing here.",
+      "Marketers think that UX is the top brand differentiator in Bynder & OnBrand's State of Branding Report 2020. Get some insights into branding and marketing here.  The websites are clean and display only the most important information and categories.",
     category: "NW",
   },
   {
@@ -267,7 +270,7 @@ const data = [
     image:
       "https://aelaschool.com/wp-content/uploads/2022/08/artigoQualadiferencaentreUXeUIDesign_01aaa69067bf7dd2a32f9fba1df84b12_2000.png",
     description:
-      "What's the best way to capture the top UI trends 2023 than browsing through the websites of the top brands in the world? Apple, Microsoft, Toyota, Tesla, McDonald's, and Louis Vuitton are some of the world's most valuable brands this year. Looking at their websites, you can observe a general trend of a homepage that offers an immersive experience. The websites are clean and display only the most important information and categories.",
+      "What's the best way to capture the top UI trends 2023 than browsing through the websites of the top brands in the world? Apple, Microsoft, Toyota, Tesla, McDonald's, and Louis Vuitton are some of the world's most valuable brands this year. Looking at their websites, you can observe a general trend of a homepage that offers an immersive experience.",
     category: "UI",
   },
   {
@@ -275,7 +278,7 @@ const data = [
     image:
       "https://cdn.bfldr.com/F97BMUF5/at/pur1da-7lime8-e1ovka/placeholder-blog.png?format=png&auto=webp&width=1600",
     description:
-      "What do all successful designers have in common? The ability to approach complex challenges with simple, yet innovative solutions. And while we all have our own techniques for problem solving -- from team brainstorming sessions to step-by-step formulas -- sometimes we need to approach our work from an entirely different angle. Here, we've rounded up 11 inspirational design articles from creative thought leaders around the web. Spanning everything from app interactions to modern web design monotony, these reads are sure to help you see age-old problems in a new light.",
+      "What do all successful designers have in common? The ability to approach complex challenges with simple, And while we all have our own techniques for problem solving -- from team brainstorming sessions to step-by-step formulas -- sometimes we need to approach our work from an entirely different angle.",
     category: "UI",
   },
   {
@@ -283,14 +286,14 @@ const data = [
     image:
       "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1108741/retina_800x320_image_0_-_2020-10-09T214729.825-ce7b6cb6e5a1468466c694c05ddb4c29-329be609f45601140687fdba21663f87.png",
     description:
-      "UI design trends may come and go on the web, but several UI patterns have stood the test of time. What makes a UI pattern timeless? Adherence to web layout best practices that result in a combination of user-friendliness and an adaptability to changing trends and technology. ",
+      "UI design trends may come and go on the web, but several UI patterns have stood the test of time. What makes a UI pattern timeless? Adherence to web layout best practices that result in a combination of user-friendliness and an adaptability to changing trends and technology.  Spanning everything from app interactions to modern web design monotony, these reads are sure to help you see age-old problems in a new light.",
     category: "UI",
   },
   {
     title: "Laws of UX / Aesthetic-Usability Effect",
     image: "https://lawsofux.com/aesthetic-usability-effect/social.png",
     description:
-      "The aesthetic-usability effect was first studied in the field of human computer interaction in 1995. Researchers Masaaki Kurosu and Kaori Kashimura from the Hitachi Design Center tested 26 variations of an ATM UI, asking the 252 study participants to rate each design on ease of use, as well as aesthetic appeal. They found a stronger correlation between the participants’ ratings of aesthetic appeal and perceived ease of use than the correlation between their ratings of aesthetic appeal and actual ease of use. Kurosu and Kashimura concluded that users are strongly influenced by the aesthetics of any given interface, even when they try to evaluate the underlying functionality of the system.",
+      "The aesthetic-usability effect was first studied in the field of human computer interaction in 1995. Researchers Masaaki Kurosu and Kaori Kashimura from the Hitachi Design Center tested 26 variations of an ATM UI, asking the 252 study participants to rate each design on ease of use, as well as aesthetic appeal. They found a stronger correlation between the participants’ of use than the correlation between their ratings of aesthetic appeal and actual ease of use.",
     category: "TUT",
   },
   {
@@ -304,7 +307,7 @@ const data = [
     title: "Laws of UX / Fitts’s Law",
     image: "https://lawsofux.com/fittss-law/social.png",
     description:
-      "In 1954, psychologist Paul Fitts, examining the human motor system, showed that the time required to move to a target depends on the distance to it, yet relates inversely to its size. By his law, fast movements and small targets result in greater error rates, due to the speed-accuracy trade-off. Although multiple variants of Fitts’ law exist, all encompass this idea. Fitts’ law is widely applied in user experience (UX) and user interface (UI) design. For example, this law influenced the convention of making interactive buttons large (especially on finger-operated mobile devices)—smaller buttons are more difficult (and time-consuming) to click. Likewise, the distance between a user’s task/attention area and the task-related button should be kept as short as possible.",
+      "In 1954, psychologist Paul Fitts, examining the human motor system, showed that the time required to move to a target depends on the distance to it, yet relates inversely to its size. By his law, fast movements and small targets result in greater error rates, due to the speed-accuracy trade-off. Although multiple variants of Fitts’ law exist, all encompass this idea. Fitts’ law is widely applied in user experience (UX) and user interface (UI) design. For example, this law influenced the convention of making interactive buttons large buttons are more difficult (and time-consuming) to click.",
     category: "TUT",
   },
   {
@@ -341,7 +344,28 @@ const data = [
     title: "What UX Designers Should Learn in 2023",
     image: "https://miro.medium.com/max/1400/0*auQRL11EvEKyaaKX.webp",
     description:
-      "It goes without saying that UX design has become one of the most competitive fields in the last couple of years, which requires designers to constantly improve themselves and keep their industry knowledge up to date. In this article, I’ll share some topics I recommend you look at and resources to study them. By mastering them, you’ll set yourself apart in the UX Design job market. Let’s get started!",
+      "It goes without saying that UX design has become one of the most competitive fields in the last couple of years, which requires designers to constantly improve themselves and keep their industry knowledge!",
     category: "TUT",
   },
 ];
+
+export default function Basic() {
+  return (
+    <div
+      style={{
+        display: "flex",
+        flexWrap: "wrap",
+        gap: "20px",
+        justifyContent: "center",
+      }}
+    >
+      {data.map((uni) => (
+        <BasicExample
+          title={uni.title}
+          image={uni.image}
+          description={uni.description}
+        />
+      ))}
+    </div>
+  );
+}

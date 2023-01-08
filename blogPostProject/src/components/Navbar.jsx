@@ -16,7 +16,7 @@ export default function Navbar() {
               <a href="#">Portfolio</a>
             </li>
             <li>
-              <a className="blog" href="#">
+              <a id="blog" href="#">
                 Blog
               </a>
             </li>
